@@ -1,0 +1,1578 @@
+Unity Editor version:    2020.3.23f1 (c5d91304a876)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+System name:             Linux
+Distro version:          #1 SMP Fri Nov 12 16:43:17 UTC 2021
+Kernel version:          5.14.18-300.fc35.x86_64
+Architecture:            x86_64
+Available memory:        7842 MB
+Using pre-set license
+Pro License: NO
+Gtk-Message: 14:40:20.918: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:40:20.919: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:40:20.919: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:40:20.919: Failed to load module "pk-gtk-module"
+Desktop is 2560 x 1600 @ 60 Hz
+
+COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/home/worker/Desktop/unity/projects/test2d/test2d
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+43799
+Successfully changed project path to: /home/worker/Desktop/unity/projects/test2d/test2d
+/home/worker/Desktop/unity/projects/test2d/test2d
+Using Asset Import Pipeline V2.
+Unable to load player prefs
+Refreshing native plugins compatible for Editor in 87.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.23f1 (c5d91304a876)
+[Subsystems] Discovering subsystems at path /home/worker/Desktop/unity/2020.3.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/worker/Desktop/unity/projects/test2d/test2d/Assets
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_import_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_video_sync 
+Renderer: Mesa DRI Intel(R) Iris(R) Graphics 6100 (BDW GT3)
+Vendor:   Intel Open Source Technology Center
+Version:  4.6 (Core Profile) Mesa 21.1.8 (git-127871cd1e)
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_APPLE_object_purgeable GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_b
+uffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffe
+r_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_textur
+e_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_
+invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_performance_query GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced G
+L_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle -1305528368
+Initialize mono
+Mono path[0] = '/home/worker/Desktop/unity/2020.3.23f1/Editor/Data/Managed'
+Mono path[1] = '/home/worker/Desktop/unity/2020.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/home/worker/Desktop/unity/2020.3.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56109
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/worker/Desktop/unity/2020.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /home/worker/Desktop/unity/2020.3.23f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.004653 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 81.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.939 seconds
+Domain Reload Profiling:
+	ReloadAssembly (940ms)
+		BeginReloadAssembly (73ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (756ms)
+			LoadAssemblies (73ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (213ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (351ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (81ms)
+				BeforeProcessingInitializeOnLoad (21ms)
+				ProcessInitializeOnLoadAttributes (202ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.017166 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 81.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.809 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1810ms)
+		BeginReloadAssembly (171ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (1561ms)
+			LoadAssemblies (103ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (507ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (101ms)
+			SetupLoadedEditorAssemblies (669ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (82ms)
+				BeforeProcessingInitializeOnLoad (120ms)
+				ProcessInitializeOnLoadAttributes (411ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2192 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.1 MB.
+System memory in use after: 90.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2625.
+Total: 8.282949 ms (FindLiveObjects: 0.340058 ms CreateObjectMapping: 0.253357 ms MarkObjects: 7.427643 ms  DeleteObjects: 0.259863 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.005188 seconds 
+  Import took 0.010851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.602497 seconds.
+  path: Assets/Player
+  artifactKey: Guid(dd4dc0dca4e9fe8188dc9736e8bb7cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player using Guid(dd4dc0dca4e9fe8188dc9736e8bb7cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe821d9ccf8c5c5e0f6d0bb94bfe980b') in 0.003698 seconds 
+  Import took 0.016819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.749368 seconds.
+  path: Assets/Player/__Boxing04_Idle_009.png
+  artifactKey: Guid(5eb696cea127de884901b0a778f1d46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/__Boxing04_Idle_009.png using Guid(5eb696cea127de884901b0a778f1d46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca3d596d8dd864927290e404162d15ea') in 0.127995 seconds 
+  Import took 0.134765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078241 seconds.
+  path: Assets/Player/__Boxing04_Idle_000.png
+  artifactKey: Guid(9d04fc61122b3259999e503b6f4c86a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/__Boxing04_Idle_000.png using Guid(9d04fc61122b3259999e503b6f4c86a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7f0eeb95735146f4ef435450a634bad') in 0.014380 seconds 
+  Import took 0.021638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Player/__Boxing04_Idle_002.png
+  artifactKey: Guid(2b9e3d4204fd366678ada830c397b03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/__Boxing04_Idle_002.png using Guid(2b9e3d4204fd366678ada830c397b03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ba815daa9015ccc690d32df1b3bee7') in 0.026043 seconds 
+  Import took 0.032106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Player/__Boxing04_Idle_004.png
+  artifactKey: Guid(e7b78e1a0e7714fb780a869ad8219b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/__Boxing04_Idle_004.png using Guid(e7b78e1a0e7714fb780a869ad8219b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '644176b036945ded21936bca18586d0d') in 0.012732 seconds 
+  Import took 0.018462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Player/__Boxing04_Idle_005.png
+  artifactKey: Guid(fc8b86775bf3223ce83d2af2dc182d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/__Boxing04_Idle_005.png using Guid(fc8b86775bf3223ce83d2af2dc182d27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6053b791269328d9981730e6b1e8f21c') in 0.017484 seconds 
+  Import took 0.033769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001771 seconds.
+  path: Assets/Player/__Boxing04_Idle_001.png
+  artifactKey: Guid(ae68dc678a087fefe85f0226842c33e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/__Boxing04_Idle_001.png using Guid(ae68dc678a087fefe85f0226842c33e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4cb06abc054a24a1b1a3b0d42dc8e1a') in 0.016347 seconds 
+  Import took 0.025101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000726 seconds.
+  path: Assets/Player/__Boxing04_Idle_007.png
+  artifactKey: Guid(cc6690a770e18c5f4beb07f6c5577c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/__Boxing04_Idle_007.png using Guid(cc6690a770e18c5f4beb07f6c5577c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f7963ee4741df778a2c8932fa1bdfc0') in 0.024667 seconds 
+  Import took 0.035330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Player/__Boxing04_Idle_003.png
+  artifactKey: Guid(69a8e281c0fcfc060bf74c53d622efdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/__Boxing04_Idle_003.png using Guid(69a8e281c0fcfc060bf74c53d622efdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c82d0f35b0818c47cbae802137d4c1cf') in 0.015605 seconds 
+  Import took 0.022935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Player/__Boxing04_Idle_008.png
+  artifactKey: Guid(ec459c3f694544644b7cb2ca8ba2fb55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/__Boxing04_Idle_008.png using Guid(ec459c3f694544644b7cb2ca8ba2fb55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59f0e695bade819cdd557deb4e94402d') in 0.022387 seconds 
+  Import took 0.030188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Player/__Boxing04_Idle_006.png
+  artifactKey: Guid(891ee4043b1a342969c264baadc0c7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/__Boxing04_Idle_006.png using Guid(891ee4043b1a342969c264baadc0c7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493ea4f0a40cc2d5b9265921f099abd5') in 0.018418 seconds 
+  Import took 0.026417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.602632 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(252f260c0d6d415f09da74b73e1e037d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(252f260c0d6d415f09da74b73e1e037d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd10779791a4b5c40defe558b6888a9e5') in 0.003184 seconds 
+  Import took 0.011307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.542830 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(0201542559a547dedbd5d4c0b709431d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(0201542559a547dedbd5d4c0b709431d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (__Boxing04_Idle_009) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:648)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:614)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (__Boxing04_Idle_009) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:617)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: 'cc5f4a21c158c6e9d51a09a922bd0fa4') in 0.081273 seconds 
+  Import took 0.089077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.202440 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(0201542559a547dedbd5d4c0b709431d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(0201542559a547dedbd5d4c0b709431d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (__Boxing04_Idle_009) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:648)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:614)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (__Boxing04_Idle_009) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:617)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: 'f789976e571ef110d9f4cab7af88892b') in 0.015768 seconds 
+  Import took 0.025508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.795826 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(0201542559a547dedbd5d4c0b709431d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(0201542559a547dedbd5d4c0b709431d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (__Boxing04_Idle_009) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:648)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:614)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (__Boxing04_Idle_009) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:617)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: 'b5871bd6809c5bc13ec8a334747f4c9f') in 0.010927 seconds 
+  Import took 0.018594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.654402 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(0201542559a547dedbd5d4c0b709431d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(0201542559a547dedbd5d4c0b709431d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (__Boxing04_Idle_009) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:648)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:614)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (__Boxing04_Idle_009) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:617)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '8f0a45c2aa319d8cbdb9ab8a44285dd8') in 0.013864 seconds 
+  Import took 0.021711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.904000 seconds.
+  path: Assets/Desert.png
+  artifactKey: Guid(24b5a84ad23868d73adedf49b18342cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desert.png using Guid(24b5a84ad23868d73adedf49b18342cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c91d1f913ab1428fd33cfc005d6aee25') in 0.021586 seconds 
+  Import took 0.030590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.833555 seconds.
+  path: Assets/Player.cs
+  artifactKey: Guid(6f790b9d125130293b46c289bb334325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player.cs using Guid(6f790b9d125130293b46c289bb334325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855c6bbb4e39e82a02cfb4ce8fbc6172') in 0.003131 seconds 
+  Import took 0.010849 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009180 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.064 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2064ms)
+		BeginReloadAssembly (168ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (79ms)
+		EndReloadAssembly (1764ms)
+			LoadAssemblies (141ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (729ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (99ms)
+			SetupLoadedEditorAssemblies (579ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (118ms)
+				ProcessInitializeOnLoadAttributes (429ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2182 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.9 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2640.
+Total: 7.914553 ms (FindLiveObjects: 0.429121 ms CreateObjectMapping: 0.214228 ms MarkObjects: 7.188623 ms  DeleteObjects: 0.080794 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011729 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.654 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1655ms)
+		BeginReloadAssembly (146ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (56ms)
+		EndReloadAssembly (1401ms)
+			LoadAssemblies (132ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (468ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (565ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (133ms)
+				ProcessInitializeOnLoadAttributes (401ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2182 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2642.
+Total: 8.401246 ms (FindLiveObjects: 0.406410 ms CreateObjectMapping: 0.257514 ms MarkObjects: 7.648912 ms  DeleteObjects: 0.085954 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 429.765820 seconds.
+  path: Assets/Player.cs
+  artifactKey: Guid(6f790b9d125130293b46c289bb334325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player.cs using Guid(6f790b9d125130293b46c289bb334325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ce521ed7481de5f78c80917e0eb6c9') in 0.005368 seconds 
+  Import took 0.012022 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005703 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.619 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1620ms)
+		BeginReloadAssembly (110ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (44ms)
+		EndReloadAssembly (1431ms)
+			LoadAssemblies (98ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (472ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (85ms)
+			SetupLoadedEditorAssemblies (598ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (127ms)
+				ProcessInitializeOnLoadAttributes (433ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2182 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2644.
+Total: 7.904889 ms (FindLiveObjects: 0.395007 ms CreateObjectMapping: 0.136430 ms MarkObjects: 7.286365 ms  DeleteObjects: 0.084699 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 32.654513 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(0201542559a547dedbd5d4c0b709431d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(0201542559a547dedbd5d4c0b709431d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edbbaabae894e9eaeb39adfd857a8e0b') in 0.089758 seconds 
+  Import took 0.100059 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009158 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.381 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1381ms)
+		BeginReloadAssembly (114ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (1187ms)
+			LoadAssemblies (91ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (389ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (67ms)
+			SetupLoadedEditorAssemblies (473ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (109ms)
+				ProcessInitializeOnLoadAttributes (334ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2182 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2647.
+Total: 8.237374 ms (FindLiveObjects: 0.270510 ms CreateObjectMapping: 0.119155 ms MarkObjects: 7.760175 ms  DeleteObjects: 0.085696 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005906 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.493 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1494ms)
+		BeginReloadAssembly (119ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (1296ms)
+			LoadAssemblies (98ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (463ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (71ms)
+			SetupLoadedEditorAssemblies (484ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (111ms)
+				ProcessInitializeOnLoadAttributes (343ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2182 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.0 MB.
+System memory in use after: 91.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2649.
+Total: 7.744323 ms (FindLiveObjects: 0.314091 ms CreateObjectMapping: 0.130125 ms MarkObjects: 7.194098 ms  DeleteObjects: 0.102742 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 69.561454 seconds.
+  path: Assets/Viking
+  artifactKey: Guid(8706aec383d3db3e6959f05be7090e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking using Guid(8706aec383d3db3e6959f05be7090e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b71fb64a081d6a58fe21bede69a3e2') in 0.006172 seconds 
+  Import took 0.012702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.736973 seconds.
+  path: Assets/Viking/viking_idle0060.png
+  artifactKey: Guid(81ccdd9eb73c80382b2e080a278a7d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0060.png using Guid(81ccdd9eb73c80382b2e080a278a7d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b7aed405d250f3682457af27c31ca28') in 0.097849 seconds 
+  Import took 0.115645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040392 seconds.
+  path: Assets/Viking/viking_idle0041.png
+  artifactKey: Guid(e57f1e4363fd578c09181260d3b8abd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0041.png using Guid(e57f1e4363fd578c09181260d3b8abd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01aad500c3bf778a08184cbe977a964f') in 0.032606 seconds 
+  Import took 0.042628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001972 seconds.
+  path: Assets/Viking/viking_idle0046.png
+  artifactKey: Guid(02644d53215545f9097ccd4b9c2cf129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0046.png using Guid(02644d53215545f9097ccd4b9c2cf129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30abd1a22d13de55a355c8ce042caa29') in 0.019322 seconds 
+  Import took 0.029775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Viking/viking_idle0057.png
+  artifactKey: Guid(eb14ea0bb8e7716e68c1b73035eb0e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0057.png using Guid(eb14ea0bb8e7716e68c1b73035eb0e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2840c8325df9b5629cc9c8c3fbfa51') in 0.022086 seconds 
+  Import took 0.036741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Viking/viking_idle0042.png
+  artifactKey: Guid(3d0dad6015330306681151a6a9c9f138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0042.png using Guid(3d0dad6015330306681151a6a9c9f138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c722e4f319a159e7622e110845010403') in 0.018487 seconds 
+  Import took 0.030145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Assets/Viking/viking_idle0043.png
+  artifactKey: Guid(26893935af388d2b68d238070c4970f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0043.png using Guid(26893935af388d2b68d238070c4970f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8410976f29f279f2ea7f29f15c6f67a') in 0.018492 seconds 
+  Import took 0.027832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003011 seconds.
+  path: Assets/Viking/viking_idle0044.png
+  artifactKey: Guid(acd4890c071c926bea12bafdf0f093ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0044.png using Guid(acd4890c071c926bea12bafdf0f093ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd946c4d2480e70e4164cf56752eb09') in 0.026133 seconds 
+  Import took 0.037126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Viking/viking_idle0056.png
+  artifactKey: Guid(8158a0d56e6f85198b7363453d13589b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0056.png using Guid(8158a0d56e6f85198b7363453d13589b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f640464436547599d88d1f16c4283e1') in 0.022270 seconds 
+  Import took 0.031843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Viking/viking_idle0059.png
+  artifactKey: Guid(b6d25dd15f5009ae2ba0ef3dcbc07dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0059.png using Guid(b6d25dd15f5009ae2ba0ef3dcbc07dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18a73603125c897290ebb5a5b86677b8') in 0.030201 seconds 
+  Import took 0.041903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005138 seconds.
+  path: Assets/Viking/viking_idle0050.png
+  artifactKey: Guid(626fb749d1d98268f8df388cea7ac1c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0050.png using Guid(626fb749d1d98268f8df388cea7ac1c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b396631b72cd4829776b5f995e2486f') in 0.037448 seconds 
+  Import took 0.053946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001316 seconds.
+  path: Assets/Viking/viking_idle0048.png
+  artifactKey: Guid(4a381e864dc8342348ab29f90e206127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0048.png using Guid(4a381e864dc8342348ab29f90e206127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b80cb605a2c9dc4c533a8bdb3ecd6e98') in 0.037665 seconds 
+  Import took 0.059818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Viking/viking_idle0055.png
+  artifactKey: Guid(32dd71349be2be59d80192d8ffaa900a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0055.png using Guid(32dd71349be2be59d80192d8ffaa900a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a8f2dad3a861bdd97f76d9fd5cf06be') in 0.018785 seconds 
+  Import took 0.032928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Viking/viking_idle0058.png
+  artifactKey: Guid(02eb1815db17f3c0095cd77dacbe9f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0058.png using Guid(02eb1815db17f3c0095cd77dacbe9f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23b71f227812b1b5dac79a3d9e2e2a10') in 0.021184 seconds 
+  Import took 0.035712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000910 seconds.
+  path: Assets/Viking/viking_idle0051.png
+  artifactKey: Guid(dc0ad9716571f95dfa3e32202551bbbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0051.png using Guid(dc0ad9716571f95dfa3e32202551bbbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf8e25ab1c9e30b9dc0023f6fdc52609') in 0.021702 seconds 
+  Import took 0.036269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001708 seconds.
+  path: Assets/Viking/viking_idle0045.png
+  artifactKey: Guid(f59fdcee7b787161a82773094f65254b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0045.png using Guid(f59fdcee7b787161a82773094f65254b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1913ad36cc052aefd777bd13562b3df7') in 0.024713 seconds 
+  Import took 0.038846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Viking/viking_idle0047.png
+  artifactKey: Guid(ce37d65069a4ca8349ce81a64926d760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0047.png using Guid(ce37d65069a4ca8349ce81a64926d760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '341ae2480f5c32c74b5a86f1aed5cbbf') in 0.019623 seconds 
+  Import took 0.029138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002586 seconds.
+  path: Assets/Viking/viking_idle0049.png
+  artifactKey: Guid(5a35e861c88558832858fc239f08c00f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0049.png using Guid(5a35e861c88558832858fc239f08c00f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b279f0beac2a2d8140cbe97d0c20aafa') in 0.018297 seconds 
+  Import took 0.027799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001253 seconds.
+  path: Assets/Viking/viking_idle0052.png
+  artifactKey: Guid(0215ad14aebd2dc648577f17d6fe5821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0052.png using Guid(0215ad14aebd2dc648577f17d6fe5821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78cd1a2b4288ac9000ecf40aab6a5999') in 0.022817 seconds 
+  Import took 0.037068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Viking/viking_idle0053.png
+  artifactKey: Guid(c4fe541850972bb72a87321bc6710ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0053.png using Guid(c4fe541850972bb72a87321bc6710ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e22c3d223aeb64d4ed384d6c927f8165') in 0.023724 seconds 
+  Import took 0.038216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000773 seconds.
+  path: Assets/Viking/viking_idle0054.png
+  artifactKey: Guid(336b172292993eacfbe0fa061be287ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0054.png using Guid(336b172292993eacfbe0fa061be287ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc8aeebe234c4ff3ad429903be874f15') in 0.028148 seconds 
+  Import took 0.044749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.926199 seconds.
+  path: Assets/Viking/viking_idle0031.png
+  artifactKey: Guid(04cb35cb078138f55b53b523c23a4b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0031.png using Guid(04cb35cb078138f55b53b523c23a4b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb8039c706e8f29188a604b4fe32e098') in 0.017931 seconds 
+  Import took 0.028638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Viking/viking_idle0037.png
+  artifactKey: Guid(30018f53342acfcdeab68e470f64bbd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0037.png using Guid(30018f53342acfcdeab68e470f64bbd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f2e403777a7407fd5da81c2e2caa8d') in 0.029115 seconds 
+  Import took 0.035685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Viking/viking_idle0032.png
+  artifactKey: Guid(600b427da02732096ad083b7e6c66c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0032.png using Guid(600b427da02732096ad083b7e6c66c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '628f76659ab93376d3a6030e99cdaf35') in 0.020308 seconds 
+  Import took 0.032139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Viking/viking_idle0033.png
+  artifactKey: Guid(0fd409ada87c8a154a7a44aee530af1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0033.png using Guid(0fd409ada87c8a154a7a44aee530af1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f7b2ae7fcfeaf3a3ed213934f71b5e') in 0.023139 seconds 
+  Import took 0.038002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000582 seconds.
+  path: Assets/Viking/viking_idle0039.png
+  artifactKey: Guid(c3f0bb82c7ae532a498afea3119848fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0039.png using Guid(c3f0bb82c7ae532a498afea3119848fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef11457ea59293189409174e2af765e1') in 0.015855 seconds 
+  Import took 0.024707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Viking/viking_idle0038.png
+  artifactKey: Guid(c4f3638b3bc71e18ab4c566b0089e712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0038.png using Guid(c4f3638b3bc71e18ab4c566b0089e712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c6109fdcf790cad39100c7a89a9e746') in 0.018446 seconds 
+  Import took 0.028888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Viking/viking_idle0035.png
+  artifactKey: Guid(45928c01e47529f58a6c948582766967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0035.png using Guid(45928c01e47529f58a6c948582766967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b1c8ac98eced275e53212f6416141c4') in 0.024888 seconds 
+  Import took 0.034790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Viking/viking_idle0034.png
+  artifactKey: Guid(c5f2d59aa693edeb296de6172dbcfa05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0034.png using Guid(c5f2d59aa693edeb296de6172dbcfa05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d601c5706039a74fdd425331fea5d9') in 0.018910 seconds 
+  Import took 0.029492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Viking/viking_idle0036.png
+  artifactKey: Guid(722654726a960aaec9e8accfa4910a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0036.png using Guid(722654726a960aaec9e8accfa4910a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a54087c60d535524e1591bdcc9a7178d') in 0.017018 seconds 
+  Import took 0.025913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Viking/viking_idle0040.png
+  artifactKey: Guid(239b6bf12b6ddd215b573355382b43e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0040.png using Guid(239b6bf12b6ddd215b573355382b43e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '345326fce602ee43df89596124807be1') in 0.020716 seconds 
+  Import took 0.031687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.325389 seconds.
+  path: Assets/Viking/viking_idle0021.png
+  artifactKey: Guid(4ad767b7ce7d5231f88596ca52e3f170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0021.png using Guid(4ad767b7ce7d5231f88596ca52e3f170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efceccb5a6a5d25ec1883df065fc6dfa') in 0.026337 seconds 
+  Import took 0.036775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Viking/viking_idle0024.png
+  artifactKey: Guid(f80addc5c19c3822b9b54e40209e293e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0024.png using Guid(f80addc5c19c3822b9b54e40209e293e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96995de1d79623df2c6c6f8d6cd8fbb8') in 0.016389 seconds 
+  Import took 0.023390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Viking/viking_idle0027.png
+  artifactKey: Guid(c67c23b247223b0f19f03bd5fba66136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0027.png using Guid(c67c23b247223b0f19f03bd5fba66136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e8da5826e8da6d0e65718849ffb1df') in 0.017308 seconds 
+  Import took 0.033779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Viking/viking_idle0025.png
+  artifactKey: Guid(724faf25d4c1d0e649ca5184da68bbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0025.png using Guid(724faf25d4c1d0e649ca5184da68bbc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e013f616f0e0757ba189aface5d890d3') in 0.014984 seconds 
+  Import took 0.026899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Viking/viking_idle0030.png
+  artifactKey: Guid(4fbc5716a3052b176a3aea819a3f6b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0030.png using Guid(4fbc5716a3052b176a3aea819a3f6b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23e8dde6894e323805a2d33f7fbe45aa') in 0.019296 seconds 
+  Import took 0.027497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/Viking/viking_idle0028.png
+  artifactKey: Guid(618c2aed431fb67bf8fa1627ea072f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0028.png using Guid(618c2aed431fb67bf8fa1627ea072f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1dfd2de2210e327af6c7b9e36925c9d') in 0.018901 seconds 
+  Import took 0.032800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004104 seconds.
+  path: Assets/Viking/viking_idle0023.png
+  artifactKey: Guid(13131924a4212bee087dff8d6e31e079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0023.png using Guid(13131924a4212bee087dff8d6e31e079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8517a139d5f02cdfc0e24ea5674042ec') in 0.017832 seconds 
+  Import took 0.035141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Viking/viking_idle0022.png
+  artifactKey: Guid(f38fc4fcd8ccbe2ffbb54a41851a4bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0022.png using Guid(f38fc4fcd8ccbe2ffbb54a41851a4bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3473c3027979172e48a5d0743842c35') in 0.014869 seconds 
+  Import took 0.022319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000684 seconds.
+  path: Assets/Viking/viking_idle0026.png
+  artifactKey: Guid(1d61569b4ca9c8fbda6fe1a5d6d907ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0026.png using Guid(1d61569b4ca9c8fbda6fe1a5d6d907ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b4dba62e6bf384b739b16e63fd9b89a') in 0.028580 seconds 
+  Import took 0.041126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Viking/viking_idle0029.png
+  artifactKey: Guid(e9ef8da60a042d282a892bdfaf0f4fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0029.png using Guid(e9ef8da60a042d282a892bdfaf0f4fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0fd5459731d7c4dafb9843afd6da10e') in 0.017775 seconds 
+  Import took 0.028552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.548664 seconds.
+  path: Assets/Viking/viking_idle0011.png
+  artifactKey: Guid(6eb2783329b4dec5d89ea0d71d71054f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0011.png using Guid(6eb2783329b4dec5d89ea0d71d71054f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aabfe3d76380b90baf4e5fec28ac49e') in 0.017638 seconds 
+  Import took 0.028413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/Viking/viking_idle0013.png
+  artifactKey: Guid(2753ace73d183db95ad3a120c95168c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0013.png using Guid(2753ace73d183db95ad3a120c95168c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc2c36154dfdfa7ae701de422da704d') in 0.015025 seconds 
+  Import took 0.027320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Viking/viking_idle0018.png
+  artifactKey: Guid(404f9cccd0f444861b277241e63c04f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0018.png using Guid(404f9cccd0f444861b277241e63c04f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0856b5f985696a5ccfb62e95d42a8784') in 0.013483 seconds 
+  Import took 0.019368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Viking/viking_idle0012.png
+  artifactKey: Guid(6aac28eff3fb508c3b76f62e0fa05f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0012.png using Guid(6aac28eff3fb508c3b76f62e0fa05f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd76ac6f0f90a657c0da11ec64ab06ef1') in 0.027018 seconds 
+  Import took 0.034249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000602 seconds.
+  path: Assets/Viking/viking_idle0015.png
+  artifactKey: Guid(26e5b3e9d9c8e2a12ab1aea65b72e002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0015.png using Guid(26e5b3e9d9c8e2a12ab1aea65b72e002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da1984cf34d0946adc82f0d7c01a6d87') in 0.018527 seconds 
+  Import took 0.026922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Viking/viking_idle0017.png
+  artifactKey: Guid(7e7c6101b1351be2b97f7a3445f264a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0017.png using Guid(7e7c6101b1351be2b97f7a3445f264a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e56179dc6331dd080f803682b6dfe8cc') in 0.024227 seconds 
+  Import took 0.034681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005971 seconds.
+  path: Assets/Viking/viking_idle0020.png
+  artifactKey: Guid(79f18df78be5eca19b6b44a9906ede4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0020.png using Guid(79f18df78be5eca19b6b44a9906ede4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c43da5899be0b04be40527e92652a7c4') in 0.016867 seconds 
+  Import took 0.031365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Viking/viking_idle0016.png
+  artifactKey: Guid(895a28461f786aa0c8abba0332009c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0016.png using Guid(895a28461f786aa0c8abba0332009c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4ae1fe3972c3d1e319f2d835d7464a7') in 0.022751 seconds 
+  Import took 0.031239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002298 seconds.
+  path: Assets/Viking/viking_idle0014.png
+  artifactKey: Guid(bd6d8c3186012141a90f637c5d7301bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0014.png using Guid(bd6d8c3186012141a90f637c5d7301bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34a0736d3295c344d6a9c3b2ce5df56') in 0.025801 seconds 
+  Import took 0.035444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Viking/viking_idle0019.png
+  artifactKey: Guid(6577aacc9e57cd689b92549ac04d750e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0019.png using Guid(6577aacc9e57cd689b92549ac04d750e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b122b467893b738f67fef8a7177b06') in 0.017950 seconds 
+  Import took 0.026213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.498786 seconds.
+  path: Assets/Viking/viking_idle0001.png
+  artifactKey: Guid(370c042543bafee4f82b173a4e2f3003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0001.png using Guid(370c042543bafee4f82b173a4e2f3003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '766ed328c4a91ede70f1bddc5ce05d1a') in 0.018627 seconds 
+  Import took 0.032022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000648 seconds.
+  path: Assets/Viking/viking_idle0004.png
+  artifactKey: Guid(17a564e5509789d9c96b7c3b86807d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0004.png using Guid(17a564e5509789d9c96b7c3b86807d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '962299ba55b562c7cbe6364ebb611613') in 0.014510 seconds 
+  Import took 0.020939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Viking/viking_idle0005.png
+  artifactKey: Guid(1395e2bd00340258ea47fdb0579a4440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0005.png using Guid(1395e2bd00340258ea47fdb0579a4440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb7bcb56c84e2913577910f4bc83999e') in 0.015122 seconds 
+  Import took 0.022325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Viking/viking_idle0002.png
+  artifactKey: Guid(fcfe414627e5197558d7c59781437e65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0002.png using Guid(fcfe414627e5197558d7c59781437e65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff76c041557b6460dd9360728cabfab7') in 0.026985 seconds 
+  Import took 0.037554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Viking/viking_idle0010.png
+  artifactKey: Guid(ad31eb4576b5edd9da70ff9df1ad3079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0010.png using Guid(ad31eb4576b5edd9da70ff9df1ad3079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5123f924ff714a255ab013d50e63ef06') in 0.018249 seconds 
+  Import took 0.026361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Viking/viking_idle0007.png
+  artifactKey: Guid(8b10e120d0231a78cabf8e18a783776d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0007.png using Guid(8b10e120d0231a78cabf8e18a783776d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7922c1830c0051c3d45ed003840ac0fb') in 0.021288 seconds 
+  Import took 0.031607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Viking/viking_idle0006.png
+  artifactKey: Guid(d1f9a0daff1f5ba238e8b3ad0bb951bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0006.png using Guid(d1f9a0daff1f5ba238e8b3ad0bb951bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd85c8923b415a0a7135568513a696e53') in 0.024109 seconds 
+  Import took 0.033518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Viking/viking_idle0003.png
+  artifactKey: Guid(c93ce45998d71f847859fd2d07c37fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0003.png using Guid(c93ce45998d71f847859fd2d07c37fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36d9b72dc009f76889085fec6603cb96') in 0.016372 seconds 
+  Import took 0.026910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Viking/viking_idle0009.png
+  artifactKey: Guid(60ff08091c3e7b67b92f3fbd97cb153c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0009.png using Guid(60ff08091c3e7b67b92f3fbd97cb153c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec9d30db0e25fb51e5abb74fe2cd75e1') in 0.016594 seconds 
+  Import took 0.025469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Viking/viking_idle0008.png
+  artifactKey: Guid(dc0f694280f992aaab628dc633773030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking/viking_idle0008.png using Guid(dc0f694280f992aaab628dc633773030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3509f592eba464a092355faa86ead234') in 0.023984 seconds 
+  Import took 0.035400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.386595 seconds.
+  path: Assets/Prefabs/Viking.prefab
+  artifactKey: Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Viking.prefab using Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:648)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:614)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:617)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '159a6570dac30a86c774d78ea8f39ffc') in 0.080290 seconds 
+  Import took 0.089750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.222311 seconds.
+  path: Assets/Prefabs/Viking.prefab
+  artifactKey: Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Viking.prefab using Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:648)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:614)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:617)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '8280faf89f4334b4bbdb7330818919a9') in 0.013096 seconds 
+  Import took 0.022070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.641919 seconds.
+  path: Assets/Prefabs/Viking.prefab
+  artifactKey: Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Viking.prefab using Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:648)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:614)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:617)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '29207e02b16694d334e83e099fa1700d') in 0.016678 seconds 
+  Import took 0.027818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.828560 seconds.
+  path: Assets/Prefabs/Viking.prefab
+  artifactKey: Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Viking.prefab using Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:648)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:614)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:617)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '5e1cff256da9c69ae28d7a214aa01954') in 0.012908 seconds 
+  Import took 0.022847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.294663 seconds.
+  path: Assets/Prefabs/Viking.prefab
+  artifactKey: Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Viking.prefab using Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:648)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:614)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:617)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: 'ccf0aef61a2bc4c44b3c73afbd14e978') in 0.014662 seconds 
+  Import took 0.021036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.806303 seconds.
+  path: Assets/Prefabs/Viking.prefab
+  artifactKey: Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Viking.prefab using Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:648)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:614)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:617)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: 'd686069e017bc21f5dfe622248f762a0') in 0.015359 seconds 
+  Import took 0.023640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.596026 seconds.
+  path: Assets/Prefabs/Viking.prefab
+  artifactKey: Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Viking.prefab using Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:648)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:614)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:617)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '9e73b0ff0b5c53bc14efca6f81086fef') in 0.014247 seconds 
+  Import took 0.021404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.004543 seconds.
+  path: Assets/Prefabs/Viking.prefab
+  artifactKey: Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Viking.prefab using Guid(58b93758750e19ce88165d64ca70b895) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:648)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:614)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (viking_idle0060) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:602)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:617)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:98)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:92)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:631)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /home/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:841)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /home/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[./Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '5675c7aa33306975b694c52553a12ae7') in 0.013699 seconds 
+  Import took 0.022625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.723630 seconds.
+  path: Assets/Viking.cs
+  artifactKey: Guid(affff25194ec9f589b2d26d8c1f77a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking.cs using Guid(affff25194ec9f589b2d26d8c1f77a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52640da0f9ff63d231953548be681500') in 0.004804 seconds 
+  Import took 0.018806 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007502 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.614 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1615ms)
+		BeginReloadAssembly (140ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (57ms)
+		EndReloadAssembly (1389ms)
+			LoadAssemblies (105ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (515ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (107ms)
+			SetupLoadedEditorAssemblies (490ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (109ms)
+				ProcessInitializeOnLoadAttributes (350ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2183 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.1 MB.
+System memory in use after: 91.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2655.
+Total: 10.726220 ms (FindLiveObjects: 0.354078 ms CreateObjectMapping: 0.140588 ms MarkObjects: 10.155693 ms  DeleteObjects: 0.073566 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 75.136124 seconds.
+  path: Assets/Viking.cs
+  artifactKey: Guid(affff25194ec9f589b2d26d8c1f77a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viking.cs using Guid(affff25194ec9f589b2d26d8c1f77a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '541fd1699c17ed31a9d2905c285bf90b') in 0.011291 seconds 
+  Import took 0.023459 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006012 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.650 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1651ms)
+		BeginReloadAssembly (141ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (13ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (56ms)
+		EndReloadAssembly (1384ms)
+			LoadAssemblies (138ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (550ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (66ms)
+			SetupLoadedEditorAssemblies (472ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (111ms)
+				ProcessInitializeOnLoadAttributes (332ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2183 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.1 MB.
+System memory in use after: 91.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2657.
+Total: 16.811253 ms (FindLiveObjects: 1.700194 ms CreateObjectMapping: 0.973645 ms MarkObjects: 13.776735 ms  DeleteObjects: 0.349193 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
