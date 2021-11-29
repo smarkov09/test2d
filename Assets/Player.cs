@@ -5,6 +5,10 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public GameObject playerPrefab;
+
+    public float velocity;
+    private float entrada;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -14,6 +18,12 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        /*entrada = Input.GetAxis("Horizontal");
+        transform.position += (Vector3) new Vector2(entrada * velocity * Time.deltaTime, 0);*/
+
+        if (Input.GetKeyDown(KeyCode.RightArrow))
+        {
+            transform.Translate(0.15f, 0, 0);
+        }
     }
 }
